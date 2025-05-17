@@ -1,9 +1,6 @@
-# 🚀 Baileys Api WhatsApp - By Flayy Dev
+# <div align='center'>🚀 Baileys Api WhatsApp - By Flayy Dev</div>
 
-![GitHub stars](https://img.shields.io/github/stars/kagenouReal/Baileys?style=social)
-![GitHub license](https://img.shields.io/github/license/kagenouReal/Baileys)
-![Node.js](https://img.shields.io/badge/node-%3E%3D14.0-green)
-![Contributors](https://img.shields.io/github/contributors/kagenouReal/Baileys)
+<div align="center"><img src="https://files.catbox.moe/wkcfhd.jpg"></div>
 
 Baileys Api WhatsApp adalah library berbasis Node.js untuk berkomunikasi dengan WhatsApp Web tanpa perlu WebSocket tambahan. Ini adalah hasil modifikasi dari Whiskey Baileys agar lebih stabil dan mendukung lebih banyak tipe pesan.
 
