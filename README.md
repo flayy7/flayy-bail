@@ -12,12 +12,12 @@ Dukungan dan bantuan dari komunitas sangat diapresiasi! 💖
 
 ## ✨ Fitur Utama
 
-✅ **Autentikasi tanpa QR** menggunakan session authentication  
+✅ **Autentikasi Tanpa Terminal QR** menggunakan session authentication  
 ✅ **Dukungan Multi-Device (MD)** terbaru dari WhatsApp  
-✅ **Kirim & terima pesan** dalam berbagai format  
-✅ **Mengelola grup** (buat grup, tambahkan/kick anggota, atur deskripsi, dll.)  
+✅ **Kirim & Terima Pesan** dalam berbagai format  
+✅ **Pengelolaan Grup** (buat grup, add/kick anggota, atur deskripsi, dll.)  
 ✅ **Integrasi event** seperti masuk/keluar grup, pesan diterima, pesan terbaca  
-✅ **Mendukung TypeScript** untuk pengembangan yang lebih aman  
+✅ **Mendukung TypeScript** untuk pengembangan script yang lebih aman  
 
 ---
 
@@ -27,13 +27,13 @@ Pastikan **Node.js ≥ 14.0** sudah terpasang,
 Kemudian jalankan perintah berikut di terminal:
 
 ```sh
-npm install @kagenoureal/baileys
+npm install @flayy7/flayy-bail
 ```
 
 Atau dengan **Yarn**:
 
 ```sh
-yarn add @kagenoureal/baileys
+yarn add @flayy7/flayy-bail
 ```
 
 ---
