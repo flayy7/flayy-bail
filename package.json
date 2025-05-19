@@ -18,7 +18,7 @@
   "url": "https://github.com/flayy7/flayy-bail.git"
 },
   "license": "MIT",
-  "author": "DapzOffc",
+  "author": "Dapz-Offc",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
